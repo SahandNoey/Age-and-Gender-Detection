@@ -10,4 +10,13 @@
 - Accuracy: Achieved an overall accuracy of 89% on the test dataset.
 - Results:
 
-![](https://github.com/user-attachments/assets/170ea3e1-024c-4dbe-8b2b-2f50d5817acf)
+<video src="https://github.com/user-attachments/assets/dfc9025a-380e-4551-945e-261f194dc035">|
+
+<video src="https://github.com/user-attachments/assets/550a7b40-a3e1-47d6-bbff-e080e0316385">|
+
+<video src="https://github.com/user-attachments/assets/c152ca18-b2dc-4a0d-95ec-81c9ef6ab98c">|
+
+<video src="https://github.com/user-attachments/assets/a90c0934-9f47-4d52-981b-aaf9a02de6c5">|
+
+<video src="https://github.com/user-attachments/assets/d886560e-1fe8-4c60-8364-7ad7727e753e">|
+
