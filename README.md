@@ -14,7 +14,7 @@
 
 <video src="https://github.com/user-attachments/assets/d886560e-1fe8-4c60-8364-7ad7727e753e">|
 
-![](https://github.com/user-attachments/assets/550a7b40-a3e1-47d6-bbff-e080e0316385)
+<video src="https://github.com/user-attachments/assets/550a7b40-a3e1-47d6-bbff-e080e0316385">|
 
 <video src="https://github.com/user-attachments/assets/90f12049-56f6-4c48-80c7-f6412d105ee0">|
 
